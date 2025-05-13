@@ -1,0 +1,24 @@
+.elementor-5285 .elementor-element.elementor-element-36e4911{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--align-items:stretch;--gap:10px 10px;--row-gap:10px;--column-gap:10px;--overlay-opacity:0.4;--padding-top:230px;--padding-bottom:230px;--padding-left:0px;--padding-right:0px;}.elementor-5285 .elementor-element.elementor-element-36e4911:not(.elementor-motion-effects-element-type-background), .elementor-5285 .elementor-element.elementor-element-36e4911 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("http://localhost/code_shmasher/wp-content/uploads/2018/11/project-background.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-5285 .elementor-element.elementor-element-36e4911::before, .elementor-5285 .elementor-element.elementor-element-36e4911 > .elementor-background-video-container::before, .elementor-5285 .elementor-element.elementor-element-36e4911 > .e-con-inner > .elementor-background-video-container::before, .elementor-5285 .elementor-element.elementor-element-36e4911 > .elementor-background-slideshow::before, .elementor-5285 .elementor-element.elementor-element-36e4911 > .e-con-inner > .elementor-background-slideshow::before, .elementor-5285 .elementor-element.elementor-element-36e4911 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{background-color:var( --e-global-color-astglobalcolor7 );--background-overlay:'';}.elementor-5285 .elementor-element.elementor-element-8d332cf{--display:flex;}.elementor-5285 .elementor-element.elementor-element-4bf79de{text-align:center;}.elementor-5285 .elementor-element.elementor-element-4bf79de .elementor-heading-title{color:#FFFFFF;}.elementor-5285 .elementor-element.elementor-element-cc1b053{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;}.elementor-5285 .elementor-element.elementor-element-dfb9a41{width:100%;max-width:100%;}.elementor-5285 .elementor-element.elementor-element-dfb9a41 iframe{height:367px;}.elementor-5285 .elementor-element.elementor-element-a35af75{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;}.elementor-5285 .elementor-element.elementor-element-ce5c352{width:var( --container-widget-width, 102.727% );max-width:102.727%;--container-widget-width:102.727%;--container-widget-flex-grow:0;}.elementor-5285 .elementor-element.elementor-element-ce5c352.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-5285 .elementor-element.elementor-element-ce5c352 .eael-contact-form-7 .wpcf7-not-valid-tip{display:block !important;}.elementor-5285 .elementor-element.elementor-element-ce5c352 .eael-contact-form-7 .wpcf7-validation-errors{display:block !important;}.elementor-5285 .elementor-element.elementor-element-ce5c352 .eael-contact-form-7-wrapper{text-align:default;}.elementor-5285 .elementor-element.elementor-element-ce5c352 .eael-contact-form-7 .wpcf7-form p:not(:last-of-type) .wpcf7-form-control-wrap{margin-bottom:0px;}@media(min-width:768px){.elementor-5285 .elementor-element.elementor-element-36e4911{--content-width:800px;}.elementor-5285 .elementor-element.elementor-element-8d332cf{--width:100%;}}@media(max-width:1024px){.elementor-5285 .elementor-element.elementor-element-36e4911{--padding-top:100px;--padding-bottom:100px;--padding-left:50px;--padding-right:50px;}}@media(max-width:767px){.elementor-5285 .elementor-element.elementor-element-36e4911{--padding-top:90px;--padding-bottom:90px;--padding-left:20px;--padding-right:20px;}}/* Start custom CSS for eael-contact-form-7, class: .elementor-element-ce5c352 */.wpcf7-form label,
+.wpcf7-form input,
+.wpcf7-form input[type="submit"] {
+    margin-top: 15px;
+    border-radius: 10px
+}
+.wpcf7-form textarea{
+    resize: none;
+    border-radius: 10px
+}
+/* Optional: Button ko aur stylish bananay ke liye */
+.wpcf7-form input[type="submit"] {
+
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.wpcf7-form input[type="submit"]:hover {
+    background-color: #005a87;
+}/* End custom CSS */
